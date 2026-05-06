@@ -26,5 +26,5 @@ Ce projet utilise des notebooks Python pour automatiser les calculs thermiques.
 * **Diagramme de l'air humide** : Modélisation des transformations de la CTA.
 
 ---
-*Projet réalisé dans le cadre du cursus Génie Civil et Urbanisme - INSA Lyon (2019-2020).*
+*Projet réalisé dans le cadre du cursus Génie Civil et Urbanisme - INSA Lyon (2015-2026).*
 
