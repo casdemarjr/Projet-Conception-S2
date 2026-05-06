@@ -1,3 +1,5 @@
+## READ ME
+
 Ce dépôt contient les travaux de modélisation et de calcul pour le dimensionnement du système de climatisation de l'amphithéâtre E. Freyssinet (Département GCU, INSA Lyon).
 
 ## 📌 Présentation du Projet
